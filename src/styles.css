@@ -16,6 +16,22 @@
   font-style: normal;
 }
 
-h2 {
-  color: red;
+h1 {
+  color: black;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+}
+.hero {
+  background: #f9f7fe;
+  text-align: center;
+}
+
+.hero p {
+  font-family: "Playfair Display", serif;
+  font-size: 96px;
 }
